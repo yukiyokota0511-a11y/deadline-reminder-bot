@@ -33,7 +33,7 @@
 ## セットアップ方法
 
 \`\`\`bash
-git clone https://github.com/ユーザー名/deadline-reminder-bot.git
+git clone https://github.com/yukiyokota0511-a11y/deadline-reminder-bot.git
 cd deadline-reminder-bot
 pip install -r requirements.txt
 \`\`\`
